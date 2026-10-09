@@ -1,0 +1,7 @@
+# INDEX — Comentario a la Ley 50/1980, de 8 de octubre, de Contrato de Seguro
+
+- [00-introduccion.md](00-introduccion.md) — Introducción, método y datos básicos
+- [01-titulo-i-disposiciones-generales.md](01-titulo-i-disposiciones-generales.md) — Capítulo del comentario 01: Disposiciones generales del contrato de seguro: concepto, perfección, documentación, declaración del riesgo, obligaciones de las partes, duración y prescripción (título I, arts. 1–24)
+- [02-titulo-ii-seguros-de-danos-disposiciones-generales.md](02-titulo-ii-seguros-de-danos-disposiciones-generales.md) — Capítulo del comentario 02: Seguros contra daños: disposiciones generales — interés, suma asegurada, infraseguro y sobreseguro, transmisión, peritación, acreedores y subrogación (título II, sección primera, arts. 25–44)
+- [03-titulo-ii-modalidades-de-seguros-de-danos.md](03-titulo-ii-modalidades-de-seguros-de-danos.md) — Capítulo del comentario 03: Modalidades de seguros contra daños: incendios, robo, transportes terrestres, lucro cesante, caución, crédito, responsabilidad civil, defensa jurídica y reaseguro (título II, secciones segunda a décima, arts. 45–79)
+- [04-titulo-iii-iv-seguros-de-personas-y-dipr.md](04-titulo-iii-iv-seguros-de-personas-y-dipr.md) — Capítulo del comentario 04: Seguros de personas, normas de Derecho internacional privado y disposiciones adicionales, transitoria y final (títulos III y IV, arts. 80–109)
